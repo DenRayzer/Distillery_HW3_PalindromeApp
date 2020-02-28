@@ -3,7 +3,7 @@
 //  PalindromeApp
 //
 //  Created by Elizaveta on 28.02.2020.
-//  Copyright © 2020 Елизавета. All rights reserved.
+//  Copyright © 2020 Elizaveta. All rights reserved.
 //
 
 import Foundation
